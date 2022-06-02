@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# SkyGoal
 
 [Link for Apk](https://drive.google.com/file/d/1GzNKCGg7nG-HUPpBbUJwWyOOoRrecaTz/view?usp=sharing)
 
